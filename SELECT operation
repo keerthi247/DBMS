@@ -1,0 +1,2 @@
+σ Place = 'Mumbai' or Salary >= 1000000 (Citizen)
+σ Department = 'Analytics'(σLocation = 'NewYork'(Manager))
