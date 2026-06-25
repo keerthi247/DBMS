@@ -1,0 +1,5 @@
+SELECT 
+    Emp_name,
+    Dept_name
+FROM Employee
+NATURAL JOIN Department;
